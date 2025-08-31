@@ -366,7 +366,7 @@ Row | Step | Description | Completed
 --- | --- | --- | ---
 11 | 8-1 | What is in Owen's dev branch? | A music video of people dancing and singing
 12 | 9-1 | Link to your new branch on github.com | [anushri-changes branch](https://github.com/anushrimodi/learn-git-milestones/tree/anushri-changes)
-13 | 10-1 | Link to your network graph | 
+13 | 10-1 | Link to your network graph | [Network graph for learn-git-milestones](https://github.com/anushrimodi/learn-git-milestones/network)
 14 | 11-1 | Link to the PR you made on a partner's github.com repo | 
 
 
